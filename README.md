@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @juniorfjj
+👋 Hi, I’m @juniorfjj
 
 <!---
 juniorfjj/juniorfjj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
